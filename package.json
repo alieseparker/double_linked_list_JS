@@ -1,0 +1,12 @@
+{
+  "name": "LinkedList",
+  "description": "double linked lists",
+  "dependencies": {
+    "mocha": "*",
+    "chai": ">= 0.1.0"
+  },
+  "engine": "node 0.10.32",
+   "scripts": {
+    "test": "make test"
+  }
+}
