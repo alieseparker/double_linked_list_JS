@@ -8,6 +8,6 @@ describe("Dedupe", function () {
   it("fill a list and then check for duplicates", function() {
     ll.fillRandom(200, 100);
     ll.dedupe();
-    console.log(ll);
+    should.equal(ll.dedupe(), true);
   });
 });
