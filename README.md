@@ -32,3 +32,4 @@ as we add new nodes.
 
 ## Contributors:
 Clare Constantine
+http://en.wikipedia.org/wiki/Tree_traversal
