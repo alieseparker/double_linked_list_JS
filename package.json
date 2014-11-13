@@ -6,7 +6,7 @@
     "chai": ">= 0.1.0"
   },
   "engine": "node 0.10.32",
-   "scripts": {
+  "scripts": {
     "test": "make test"
   }
 }
